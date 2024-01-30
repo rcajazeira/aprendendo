@@ -1,0 +1,23 @@
+h1 {
+    font-family: Arial;
+    font-size: 32px;
+    color: #FFF312;
+    background-color: #631AE8;
+    text-align: center;
+    border: 10px inset #B7AF1F;
+}
+p {
+    font-family: Arial;
+    font-size: 16px;
+    color: black;
+    background-color: #FFF312;
+
+}
+h2 {
+    font-family: Arial;
+    font-size: 32px;
+    color: #4765A8;
+    background-color: transparent;
+    border: 10px groove #1D60F5;
+
+}
